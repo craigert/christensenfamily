@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Cate</h2><p class="intro" itemprop="description">I was born in Provo, Utah and moved to Colorado when I was seven years old.  I enjoy writing, basketball, reading and spending time with my friends.</p><p class="icon-arrow-right read_more">Read Cate's Profile</p></div>

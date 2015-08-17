@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Logan</h2><p class="intro" itemprop="description">I'm currently a BYU student and am smart, good-looking and extremely humble. I served my mission in Melbourne, Australia speaking Chinese. I love Chinese culture, eating, destroying people at ping-pong, and snow skiing.</p><p class="icon-arrow-right read_more">Read Logan's Profile</p></div>

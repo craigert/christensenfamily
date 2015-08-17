@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Christian</h2><p class="intro" itemprop="description">Born in NYC.  Raised in San Diego and St. George.  LDS missionary in Pennsylvania Pittsburgh mission, Spanish speaking.  Soccer player.  Astronomy buff.</p><p class="icon-arrow-right read_more">Read Christian's Profile</p></div>

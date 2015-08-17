@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hey I'm Alan</h2><p class="intro" itemprop="description">I've lived in Richfield my whole life, I enjoy working in the family business, I have 6 wonderful kids that I love to support. I enjoy tennis.</p><p class="icon-arrow-right read_more">Read Alan's Profile</p></div>

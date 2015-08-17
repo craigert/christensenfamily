@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Ali</h2><p class="intro" itemprop="description">I was born in Walnut Creek, CA and I was 18 months old when we moved to Seattle.  I play soccer year round, I love to draw and design clothes, and I play the piano.  </p><p class="icon-arrow-right read_more">Read Ali's Profile</p></div>

@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Melissa</h2><p class="intro" itemprop="description"> I love being a mom to my handsome boys.  I love my husband.  I teach math at the high school and teach violin lessons.  I love to play with my family in whatever they’re doing!</p><p class="icon-arrow-right read_more">Read Melissa's Profile</p></div>

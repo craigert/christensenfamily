@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Cole</h2><p class="intro" itemprop="description">I am in the 4th grade. I love playing soccer and karate. And I love being a new big brother!!</p><p class="icon-arrow-right read_more">Read Cole's Profile</p></div>

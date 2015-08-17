@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hey I'm Debbie</h2><p class="intro" itemprop="description">I grew up in the Bay Area. I've lived in Richfield for 36 years. I love cooking and playing with my wonderful grandchildren.</p><p class="icon-arrow-right read_more">Read Debbie's Profile</p></div>

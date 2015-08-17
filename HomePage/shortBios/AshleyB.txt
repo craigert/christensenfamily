@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hey I'm Ashley</h2><p class="intro" itemprop="description">I'm a wifey, mom, blogger and part time Christensen employee. I love reading, my gym time and my family!</p><p class="icon-arrow-right read_more">Read Ashley's Profile</p></div>

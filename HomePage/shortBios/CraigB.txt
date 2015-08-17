@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Craig</h2><p class="intro" itemprop="description">I grew up in Provo, served a mission to Venezuela, graduated from BYU, and love running, ultimate frisbee, southern utah, and web development.</p><p class="icon-arrow-right read_more">Read Craig's Profile</p></div>

@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Jackie</h2><p class="intro" itemprop="description">My hobbies are reading, crafting and sports.  You can mostly find me on the sidelines at my kids'  soccer and basketball games or in the piano recital hall.  I have a special love for Brazil, it's people and the food.</p><p class="icon-arrow-right read_more">Read Jackie's Profile</p></div>

@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Jaci</h2><p class="intro" itemprop="description">I'm attending BYU-Idaho.  I love going on walks, reading, and spending time with family and friends.  I also like swimming, playing cards, climbing trees, trying new recipes, and playing the piano.</p><p class="icon-arrow-right read_more">Read Jaci's Profile</p></div>

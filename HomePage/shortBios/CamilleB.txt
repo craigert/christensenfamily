@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Camille</h2><p class="intro" itemprop="description">I grew up in Richfield.  I graduated from BYU and taught 1st grade.  I married Hugo and we have 5 wonderful children and 3 special grandchildren.  I am living in Panama and enjoy serving in the Temple here.</p><p class="icon-arrow-right read_more">Read Camille's Profile</p></div>

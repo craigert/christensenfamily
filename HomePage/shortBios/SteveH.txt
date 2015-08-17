@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Steve</h2><p class="intro" itemprop="description">I grew up in the Bay Area in Moraga, California.  I work at Amazon (Instant Video Dept.) and I love to play soccer, bike, and waterski.</p><p class="icon-arrow-right read_more">Read Steve's Profile</p></div>

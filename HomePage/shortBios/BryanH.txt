@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Bryan</h2><p class="intro" itemprop="description">I'm an orthodontist.  I love the Lakers, palm trees, the sunshine, the ocean and In-n-Out, all things California.  I served a Spanish speaking mission in Denver, CO.  And I wish I could dance like Michael Jackson.</p><p class="icon-arrow-right read_more">Read Bryan's Profile</p></div>

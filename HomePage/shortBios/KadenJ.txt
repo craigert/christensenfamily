@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Kaden</h2><p class="intro" itemprop="description">I just returned from my mission to Albuquerque, New Mexico.  My new favorite food is green chili from New Mexico.  I like to read.  I'm looking forward to attending BYU-Idaho.</p><p class="icon-arrow-right read_more">Read Kaden's Profile</p></div>

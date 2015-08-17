@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Chloe</h2><p class="intro" itemprop="description">I'm 2 years old. I love popsicles, Jake & the Neverland Pirates and playing with my sisters.</p><p class="icon-arrow-right read_more">Read Chloe's Profile</p></div>

@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Dax</h2><p class="intro" itemprop="description">I am the youngest in my family and enjoy my family and numbers... but mostly numbers - counting, looking for numbers everywhere, and watching the numbers count down on the washing machine.</p><p class="icon-arrow-right read_more">Read Dax's Profile</p></div>

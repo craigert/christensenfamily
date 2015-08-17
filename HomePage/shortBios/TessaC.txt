@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Tessa</h2><p class="intro" itemprop="description">I will be 3 years old this October. I just started dance class and I love to twirl. I love wearing dresses. Don't let me fool you, I handle my brothers well. I am the 100th descendant of my Great Grandma & Grandpa Christensen.</p><p class="icon-arrow-right read_more">Read Tessa's Profile</p></div>

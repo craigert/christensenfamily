@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Addyson</h2><p class="intro" itemprop="description">I am 6 years old.  I love gymnastics, cheerleading, dance, and doing crafts.  My favorite animal is the flamingo and my favorite color is pink.</p><p class="icon-arrow-right read_more">Read Addyson's Profile</p></div>

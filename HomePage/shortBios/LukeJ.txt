@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Luke</h2><p class="intro" itemprop="description">I was born in Provo, Utah and moved to Colorado when I was five years old.  I enjoy playing basketball, football, reading and cheering for the Seahawks.</p><p class="icon-arrow-right read_more">Read Luke's Profile</p></div>

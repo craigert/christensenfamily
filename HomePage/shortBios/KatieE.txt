@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Katie</h2><p class="intro" itemprop="description">I've been a reporter, weather forecaster, anchor, producer, and public relations specialist, but my best job is that of a mom. I enjoy taking pictures, baking sweet treats, and traveling to new places.</p><p class="icon-arrow-right read_more">Read Katie's Profile</p></div>

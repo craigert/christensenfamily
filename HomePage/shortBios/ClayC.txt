@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Clay</h2><p class="intro" itemprop="description">I grew up in richfield. I Met and married my wife while attending SUU. Have two boys and I am a project manager for a investment company. Enjoy sports and spending time with my family. </p><p class="icon-arrow-right read_more">Read Clay's Profile</p></div>

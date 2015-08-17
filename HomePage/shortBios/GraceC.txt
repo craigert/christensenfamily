@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Grace</h2><p class="intro" itemprop="description">I was born in Santa Monica and live in St. George. I'm in 3rd Grade at Bloomington Elementary. I love playing sports like tennis, soccer and softball along with learning how to do new things all the time.</p><p class="icon-arrow-right read_more">Read Grace's Profile</p></div>

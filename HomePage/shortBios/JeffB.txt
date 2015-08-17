@@ -1,0 +1,1 @@
+<div><h2 itemprop="name">Hi I'm Jeff</h2><p class="intro" itemprop="description">I grew up in Sandy, UT and Minas Gerais, Brazil. I served a mission in Japan. I enjoy shooting hoops and playing golf with family and friends.</p><p class="icon-arrow-right read_more">Read Jeff's Profile</p></div>
